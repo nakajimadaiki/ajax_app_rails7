@@ -1,4 +1,5 @@
 import { Application } from "@hotwired/stimulus"
+import "memo"
 
 const application = Application.start()
 
